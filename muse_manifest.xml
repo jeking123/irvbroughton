@@ -1,0 +1,160 @@
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="false" ftp_hostname="ftp://ftp.irvbroughton.com" ftp_rootfolder="/" exportTarget="FTP" domain="irvbroughton.com" resolutions="1x" timestamp="1466474945638">
+  <folder name="css">
+    <file name="site_global.css" crc="273571526"/>
+    <file name="master_a-master.css" crc="482459492" ref="levees:gallery:index:gotcha:documents:contact:works:gracious:the-long-net"/>
+    <file name="nomq_preview_master_a-master.css" crc="4288465736" ref="levees:gallery:index:gotcha:documents:contact:works:gracious:the-long-net"/>
+    <file name="levees.css" crc="4110405664" ref="levees"/>
+    <file name="nomq_levees.css" crc="3794543660" ref="levees"/>
+    <file name="gallery.css" crc="4136533506" ref="gallery"/>
+    <file name="nomq_gallery.css" crc="3973796554" ref="gallery"/>
+    <file name="index.css" crc="318518150" ref="index"/>
+    <file name="nomq_index.css" crc="3989827142" ref="index"/>
+    <file name="gotcha.css" crc="241068159" ref="gotcha"/>
+    <file name="nomq_gotcha.css" crc="3939393242" ref="gotcha"/>
+    <file name="documents.css" crc="4257025983" ref="documents"/>
+    <file name="nomq_documents.css" crc="3764368970" ref="documents"/>
+    <file name="contact.css" crc="469866418" ref="contact"/>
+    <file name="nomq_contact.css" crc="3984227041" ref="contact"/>
+    <file name="works.css" crc="361084664" ref="works"/>
+    <file name="nomq_works.css" crc="180164645" ref="works"/>
+    <file name="gracious.css" crc="4136177976" ref="gracious"/>
+    <file name="nomq_gracious.css" crc="4134655360" ref="gracious"/>
+    <file name="the-long-net.css" crc="433089187" ref="the-long-net"/>
+    <file name="nomq_the-long-net.css" crc="131561072" ref="the-long-net"/>
+  </folder>
+  <folder name="assets">
+    <file name="garrett-to-the-end.doc" crc="3993479714" seo="true" mt="1423948440000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:works:contact:the-long-net:gallery:documents:gracious:levees:gotcha"/>
+    <file name="museutils.js" crc="3790713428" ref="index:works:contact:the-long-net:gallery:documents:gracious:levees:gotcha"/>
+    <file name="whatinput.js" crc="84559013" ref="index:works:contact:the-long-net:gallery:documents:gracious:levees:gotcha"/>
+    <file name="pie.js" crc="3827607177" ref="index:works:the-long-net:gallery"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="index:works:contact:the-long-net:gallery:documents:gracious:levees:gotcha"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:works:contact:the-long-net:gallery:documents:gracious:levees:gotcha"/>
+    <file name="jquery.museresponsive.js" crc="3895133147" ref="index:works:contact:the-long-net:gallery:documents:gracious:levees:gotcha"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="the-long-net:gracious:levees:gotcha"/>
+  </folder>
+  <folder name="images">
+    <file name="author1.jpg" crc="218097733" seo="true" ref="index:works:contact:the-long-net:gallery:documents:gracious:levees:gotcha"/>
+    <file name="408withfilm.jpg" crc="441299566" seo="true" ref="index:works:contact:the-long-net:gallery:documents:gracious:levees:gotcha"/>
+    <file name="60x90.png" crc="144507330" seo="true" ref="index:gallery"/>
+    <file name="alsowithfilm.jpg" crc="250304548" seo="true" ref="index:works:contact:the-long-net:gallery:documents:gracious:levees:gotcha"/>
+    <file name="273673-leather.jpg" crc="4211745061" ref="index:works:contact:the-long-net:gallery:documents:gracious:levees:gotcha"/>
+    <file name="bar.png" crc="3815970905" ref="index:works:the-long-net:gallery"/>
+    <file name="blank.gif" crc="4208392903" ref="index:works:contact:the-long-net:gallery:documents:gracious:levees:gotcha"/>
+    <file name="graciousfrontonly.jpg" crc="218854076" ref="works"/>
+    <file name="longnetfrontonly.jpg" crc="145208482" ref="works"/>
+    <file name="leveesfrontonly.jpg" crc="4145097343" ref="works"/>
+    <file name="trapfront only.jpg" crc="3904576345" ref="works"/>
+    <file name="graciousfrontonly-u37703-fr.jpg" crc="133884257" ref="works"/>
+    <file name="longnetfrontonly-u37969-fr.jpg" crc="207501805" ref="works"/>
+    <file name="leveesfrontonly-u37722-fr.jpg" crc="3890674081" ref="works"/>
+    <file name="trapfront only-u40537-fr.jpg" crc="203103946" ref="works"/>
+    <file name="graciousfrontonly-u37703-fr2.jpg" crc="4161493875" ref="works"/>
+    <file name="longnetfrontonly-u37969-fr2.jpg" crc="195066777" ref="works"/>
+    <file name="leveesfrontonly-u37722-fr2.jpg" crc="3976268463" ref="works"/>
+    <file name="trapfront only-u40537-fr2.jpg" crc="3778082482" ref="works"/>
+    <file name="graciousfrontonly-u37703-fr3.jpg" crc="465644386" ref="works"/>
+    <file name="longnetfrontonly-u37969-fr3.jpg" crc="307095756" ref="works"/>
+    <file name="leveesfrontonly-u37722-fr3.jpg" crc="302737779" ref="works"/>
+    <file name="trapfront only-u40537-fr3.jpg" crc="4139523930" ref="works"/>
+    <file name="leveesfrontonly-u37722-fr4.jpg" crc="3892293180" ref="works"/>
+    <file name="graciousfrontonly-u37703-fr4.jpg" crc="436236945" ref="works"/>
+    <file name="longnetfrontonly-u37969-fr4.jpg" crc="3875033320" ref="works"/>
+    <file name="trapfront only-u40537-fr4.jpg" crc="3956779872" ref="works"/>
+    <file name="xxx12ccmylngntcover_2x-u37213-fr.png" crc="401968290" ref="the-long-net"/>
+    <file name="xxx12ccmylngntcover_2x-u37213-fr2.png" crc="4127836164" ref="the-long-net"/>
+    <file name="xxx12ccmylngntcover_2x-u37213-fr3.png" crc="4110618080" ref="the-long-net"/>
+    <file name="xxx12ccmylngntcover_2x-u37213-fr4.png" crc="156554162" ref="the-long-net"/>
+    <file name="irvs1_0011.jpg" crc="3893423794" ref="gallery"/>
+    <file name="irvs1_0012.jpg" crc="262915949" ref="gallery"/>
+    <file name="irvs1_0024.jpg" crc="4140576398" ref="gallery"/>
+    <file name="irvs_0003.jpg" crc="76462150" ref="gallery"/>
+    <file name="2016-04-28 002.jpg" crc="3999996242" ref="gallery"/>
+    <file name="2016-04-28 001.jpg" crc="356169201" ref="gallery"/>
+    <file name="irvs1_0022.jpg" crc="209619043" ref="gallery"/>
+    <file name="irvs1_0020.jpg" crc="4066595455" ref="gallery"/>
+    <file name="irvs_0002.jpg" crc="262248372" ref="gallery"/>
+    <file name="irvs1_0015.jpg" crc="32297085" ref="gallery"/>
+    <file name="irvs1_0013.jpg" crc="4076469386" ref="gallery"/>
+    <file name="irvs1_0017.jpg" crc="3999191788" ref="gallery"/>
+    <file name="irvs2_0001.jpg" crc="183607712" ref="gallery"/>
+    <file name="irvs2_0002.jpg" crc="3862098746" ref="gallery"/>
+    <file name="irvs1_0007.jpg" crc="4227860678" ref="gallery"/>
+    <file name="irvs1_0021.jpg" crc="452656026" ref="gallery"/>
+    <file name="irvs1_0016.jpg" crc="3862421302" ref="gallery"/>
+    <file name="irvs1_0014.jpg" crc="3981575392" ref="gallery"/>
+    <file name="irvs1_0001.jpg" crc="481969993" ref="gallery"/>
+    <file name="irvs1_0002.jpg" crc="3991496731" ref="gallery"/>
+    <file name="irvs1_0003.jpg" crc="4209202945" ref="gallery"/>
+    <file name="irvs1_0004.jpg" crc="470636277" ref="gallery"/>
+    <file name="img_5182.jpg" crc="205749157" ref="gallery"/>
+    <file name="irviytf.jpg" crc="453898681" ref="gallery"/>
+    <file name="irvs1_0008.jpg" crc="98101871" ref="gallery"/>
+    <file name="irvs1_0009.jpg" crc="3920365669" ref="gallery"/>
+    <file name="irvs1_0010.jpg" crc="253119751" ref="gallery"/>
+    <file name="irvs1_0023crop.jpg" crc="4224378559" ref="gallery"/>
+    <file name="irvs2_0003.jpg" crc="320977966" ref="gallery"/>
+    <file name="irvs1_0018.jpg" crc="64781785" ref="gallery"/>
+    <file name="irvs1_0019.jpg" crc="266695858" ref="gallery"/>
+    <file name="irvs1_0005.jpg" crc="43611346" ref="gallery"/>
+    <file name="irvs1_0006.jpg" crc="3803215228" ref="gallery"/>
+    <file name="20160115_132406.jpg" crc="3871771310" ref="gallery"/>
+    <file name="20160115_134032.jpg" crc="160024767" ref="gallery"/>
+    <file name="cimg5326.jpg" crc="202466146" ref="gallery"/>
+    <file name="cimg5337.jpg" crc="67446399" ref="gallery"/>
+    <file name="irv2 001.jpg" crc="403964968" ref="gallery"/>
+    <file name="irv4 001.jpg" crc="4049727406" ref="gallery"/>
+    <file name="irv5 001.jpg" crc="4267869715" ref="gallery"/>
+    <file name="irv 001.jpg" crc="4217094398" ref="gallery"/>
+    <file name="me-modine.jpg" crc="137215672" ref="gallery"/>
+    <file name="cimg5289.jpg" crc="236550249" ref="gallery"/>
+    <file name="20160115_134700.jpg" crc="4028816275" ref="gallery"/>
+    <file name="graciousfullcover-u38732-fr.png" crc="117236127" ref="gracious"/>
+    <file name="graciousfullcover-u38732-fr2.png" crc="4135288624" ref="gracious"/>
+    <file name="graciousfullcover-u38732-fr3.png" crc="3932024408" ref="gracious"/>
+    <file name="graciousfullcover-u38732-fr4.png" crc="3872859427" ref="gracious"/>
+    <file name="graciousfullcover-u38732-fr5.png" crc="4204552897" ref="gracious"/>
+    <file name="graciousfullcover-u38732-fr6.png" crc="168653419" ref="gracious"/>
+    <file name="4leveecover1.jpg" crc="139215493" ref="levees"/>
+    <file name="4leveecover1-u40486-fr.jpg" crc="415186212" ref="levees"/>
+    <file name="4leveecover1-u40486-fr2.jpg" crc="4282374550" ref="levees"/>
+    <file name="4leveecover1-u40486-fr3.jpg" crc="489287397" ref="levees"/>
+    <file name="4leveecover1-u40486-fr4.jpg" crc="457385379" ref="levees"/>
+    <file name="4leveecover1-u40486-fr5.jpg" crc="253272610" ref="levees"/>
+    <file name="trapfullcover.jpg" crc="4280040285" ref="gotcha"/>
+    <file name="trappapamazonbuy.png" crc="3995907244" ref="gotcha"/>
+    <file name="trappapamazonbuy-buy paperback on amazon.png" crc="394329500" ref="gotcha"/>
+    <file name="trappapamazonbuy-layer 0.png" crc="4127693550" ref="gotcha"/>
+    <file name="trapfullcover-u40557-fr.jpg" crc="81522109" ref="gotcha"/>
+    <file name="trappapamazonbuy-u40620-fr.png" crc="3995451961" ref="gotcha"/>
+    <file name="trappapamazonbuy-u40620-r-fr.png" crc="208886289" ref="gotcha"/>
+    <file name="trappapamazonbuy-u40620-m-fr.png" crc="4266515035" ref="gotcha"/>
+    <file name="trapfullcover-u40557-fr2.jpg" crc="3910580067" ref="gotcha"/>
+    <file name="trappapamazonbuy-u40620-fr2.png" crc="406078098" ref="gotcha"/>
+    <file name="trappapamazonbuy-u40620-r-fr2.png" crc="281974200" ref="gotcha"/>
+    <file name="trappapamazonbuy-u40620-m-fr2.png" crc="78343140" ref="gotcha"/>
+    <file name="trapfullcover-u40557-fr3.jpg" crc="4088034866" ref="gotcha"/>
+    <file name="trappapamazonbuy-u40620-fr3.png" crc="326710288" ref="gotcha"/>
+    <file name="trappapamazonbuy-u40620-r-fr3.png" crc="4285183004" ref="gotcha"/>
+    <file name="trappapamazonbuy-u40620-m-fr3.png" crc="233661711" ref="gotcha"/>
+    <file name="trapfullcover-u40557-fr4.jpg" crc="4177148483" ref="gotcha"/>
+    <file name="trappapamazonbuy-u40620-fr4.png" crc="319148535" ref="gotcha"/>
+    <file name="trappapamazonbuy-u40620-r-fr4.png" crc="449013488" ref="gotcha"/>
+    <file name="trappapamazonbuy-u40620-m-fr4.png" crc="4291208856" ref="gotcha"/>
+    <file name="trapfullcover-u40557-fr5.jpg" crc="512537398" ref="gotcha"/>
+    <file name="trappapamazonbuy-u40620-fr5.png" crc="487363971" ref="gotcha"/>
+    <file name="trappapamazonbuy-u40620-r-fr5.png" crc="190554883" ref="gotcha"/>
+    <file name="trappapamazonbuy-u40620-m-fr5.png" crc="4235407900" ref="gotcha"/>
+  </folder>
+  <file name="index.html" crc="4037665923" seo="true" mt="1466474483147" redirect="true"/>
+  <file name="works.html" crc="430500864" seo="true" mt="1466456103579" redirect="true"/>
+  <file name="contact.html" crc="405161311" seo="true" mt="1466456103579" redirect="true"/>
+  <file name="the-long-net.html" crc="141758477" seo="true" mt="1466457944482" redirect="true"/>
+  <file name="gallery.html" crc="3945881770" seo="true" mt="1466474916879" redirect="true"/>
+  <file name="documents.html" crc="3885045089" seo="true" mt="1466456103579" redirect="true"/>
+  <file name="gracious.html" crc="3941338790" seo="true" mt="1466456103579" redirect="true"/>
+  <file name="levees.html" crc="3761057653" seo="true" mt="1466456103579" redirect="true"/>
+  <file name="gotcha.html" crc="149560848" seo="true" mt="1466456103579" redirect="true"/>
+</manifest>

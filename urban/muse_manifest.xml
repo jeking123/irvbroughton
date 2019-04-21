@@ -1,0 +1,188 @@
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" ftp_hostname="ftp://ftp.irvbroughton.com" ftp_rootfolder="//urban" exportTarget="FTP" domain="irvbroughton.com" resolutions="1x" timestamp="1466042108002">
+  <folder name="css">
+    <file name="site_global.css" crc="174444159"/>
+    <file name="index.css" crc="4144235871" ref="index"/>
+    <file name="iefonts_index.css" crc="3933835046" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="phone>index:phone>about:phone>contact:phone>service:phone>work:tablet>index:tablet>about:tablet>work:tablet>service:tablet>contact:index"/>
+    <file name="museutils.js" crc="3790713428" ref="phone>index:phone>about:phone>contact:phone>service:phone>work:tablet>index:tablet>about:tablet>work:tablet>service:tablet>contact:index"/>
+    <file name="whatinput.js" crc="84559013" ref="phone>index:phone>about:phone>contact:phone>service:phone>work:tablet>index:tablet>about:tablet>work:tablet>service:tablet>contact:index"/>
+    <file name="webpro.js" crc="329496574" ref="phone>index:phone>about:phone>contact:phone>service:phone>work:tablet>index:tablet>about:tablet>work:tablet>service:tablet>contact:index"/>
+    <file name="musewpdisclosure.js" crc="4234230767" ref="phone>index:phone>about:phone>contact:phone>service:phone>work:tablet>index:tablet>about:tablet>work:tablet>service:tablet>contact"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="phone>index:phone>about:phone>contact:phone>service:phone>work:tablet>index:tablet>about:tablet>work:tablet>service:tablet>contact:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="phone>about:phone>contact:phone>service:phone>work:tablet>index:tablet>about:tablet>service:tablet>contact:index"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="phone>about:tablet>about:index"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="phone>about:tablet>about:index"/>
+    <file name="touchswipe.js" crc="497316881" ref="phone>about:tablet>about:index"/>
+    <file name="form_check.php" crc="3805695515" ref="phone>contact:tablet>contact:index"/>
+    <file name="form_throttle.php" crc="3802629389" ref="phone>contact:tablet>contact:index"/>
+    <file name="form_process.php" crc="54267062" ref="phone>contact:tablet>contact:index"/>
+    <file name="form-u13183.php" crc="163817206" ref="phone>contact"/>
+    <file name="museredirect.js" crc="71780213" ref="tablet>index:tablet>about:tablet>work:tablet>service:tablet>contact:index"/>
+    <file name="jquery.scrolleffects.js" crc="4219894366" ref="tablet>about:index"/>
+    <file name="form-u13582.php" crc="4075219771" ref="tablet>contact"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="form-u4127.php" crc="299074714" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="page-logo.png" crc="4241313106" seo="true" ref="phone>index:tablet>index"/>
+    <file name="top3.jpg" crc="355425125" ref="phone>index:index"/>
+    <file name="circle.png" crc="138380494" seo="true" ref="phone>about:tablet>about:index"/>
+    <file name="ab_01-u12924-fr.jpg" crc="4254898221" ref="phone>about"/>
+    <file name="mail.png" crc="4049782736" seo="true" ref="phone>about:tablet>about:index"/>
+    <file name="ab_02-u12919-fr.jpg" crc="328054511" ref="phone>about"/>
+    <file name="ab_03-u12932-fr.jpg" crc="4181361108" ref="phone>about"/>
+    <file name="ab_04-u12916-fr.jpg" crc="100918126" ref="phone>about"/>
+    <file name="b02760x507.jpg" crc="4275079689" ref="phone>about"/>
+    <file name="u13222-17.png" crc="4123567873" ref="phone>contact"/>
+    <file name="u13222-17-r.png" crc="193913675" ref="phone>contact"/>
+    <file name="u13222-17-m.png" crc="193913675" ref="phone>contact"/>
+    <file name="u13222-17-fs.png" crc="414071562" ref="phone>contact"/>
+    <file name="rss-basic.png" crc="3816839941" seo="true" ref="phone>contact"/>
+    <file name="facebook-logo.png" crc="5827226" seo="true" ref="phone>contact"/>
+    <file name="tumblr.png" crc="234804571" seo="true" ref="phone>contact"/>
+    <file name="blogger.png" crc="159040878" seo="true" ref="phone>contact"/>
+    <file name="b06760x507.jpg" crc="4029864131" ref="phone>contact"/>
+    <file name="service-satellite.png" crc="4120746595" seo="true" ref="phone>service:tablet>service:index"/>
+    <file name="service-layer 3.png" crc="153718763" seo="true" ref="phone>service:tablet>service:index"/>
+    <file name="service-layer 2.png" crc="3978214824" seo="true" ref="phone>service:tablet>service:index"/>
+    <file name="service-layer 1.png" crc="4035277965" seo="true" ref="phone>service:tablet>service:index"/>
+    <file name="b04760x507.jpg" crc="11124177" ref="phone>service"/>
+    <file name="p01.jpg" crc="158592509" ref="phone>work:tablet>work:index"/>
+    <file name="p02.jpg" crc="244275633" ref="phone>work:index"/>
+    <file name="p03.jpg" crc="457530733" ref="phone>work:index"/>
+    <file name="b05760x507.jpg" crc="3900045005" ref="phone>work"/>
+    <file name="top31536x1024.jpg" crc="409132628" ref="tablet>index"/>
+    <file name="ab_01-u13426-fr.jpg" crc="431692599" ref="tablet>about"/>
+    <file name="ab_02-u13398-fr.jpg" crc="476036673" ref="tablet>about"/>
+    <file name="ab_03-u13440-fr.jpg" crc="4226322853" ref="tablet>about"/>
+    <file name="ab_04-u13435-fr.jpg" crc="4176642745" ref="tablet>about"/>
+    <file name="b021536x1024.jpg" crc="264412755" ref="tablet>about"/>
+    <file name="b05.jpg" crc="3799804413" ref="tablet>work:index"/>
+    <file name="b041536x1024.jpg" crc="505873173" ref="tablet>service"/>
+    <file name="u13623-17.png" crc="500001013" ref="tablet>contact"/>
+    <file name="u13623-17-r.png" crc="4167523238" ref="tablet>contact"/>
+    <file name="u13623-17-m.png" crc="4167523238" ref="tablet>contact"/>
+    <file name="u13623-17-fs.png" crc="342221535" ref="tablet>contact"/>
+    <file name="b061536x1024.jpg" crc="409172023" ref="tablet>contact"/>
+    <file name="top_buttons-normal.jpg" crc="4215107978" ref="index"/>
+    <file name="top_buttons-rollover.jpg" crc="4094651154" ref="index"/>
+    <file name="home_icon_simple.png" crc="4112256153" seo="true" ref="index"/>
+    <file name="b02.jpg" crc="31638771" ref="index"/>
+    <file name="ab_01.jpg" crc="40837654" ref="index"/>
+    <file name="ab_02.jpg" crc="487910357" ref="index"/>
+    <file name="ab_03.jpg" crc="212905190" ref="index"/>
+    <file name="ab_04.jpg" crc="448378447" ref="index"/>
+    <file name="b04.jpg" crc="353427646" ref="index"/>
+    <file name="b06.jpg" crc="217650051" ref="index"/>
+    <file name="u4160-17.png" crc="358386560" ref="index"/>
+    <file name="u4160-17-r.png" crc="4010859455" ref="index"/>
+    <file name="u4160-17-m.png" crc="4010859455" ref="index"/>
+    <file name="u4160-17-fs.png" crc="230029702" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="165482367" ref="tablet>index"/>
+      <file name="about.css" crc="4028547840" ref="tablet>about"/>
+      <file name="contact.css" crc="3821632498" ref="tablet>contact"/>
+      <file name="iefonts_contact.css" crc="190812797" ref="tablet>contact"/>
+      <file name="service.css" crc="410156861" ref="tablet>service"/>
+      <file name="work.css" crc="491061012" ref="tablet>work"/>
+    </folder>
+    <file name="index.html" crc="483013487" seo="true" mt="1466041525498" redirect="true"/>
+    <file name="about.html" crc="4221619797" seo="true" mt="1466041531961" redirect="true"/>
+    <file name="work.html" crc="3878952537" seo="true" mt="1466041528630" redirect="true"/>
+    <file name="service.html" crc="517025264" seo="true" mt="1466041529910" redirect="true"/>
+    <file name="contact.html" crc="3878511146" seo="true" mt="1466041526402" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="about.css" crc="232114707" ref="phone>about"/>
+      <file name="work.css" crc="69323580" ref="phone>work"/>
+      <file name="service.css" crc="3956909006" ref="phone>service"/>
+      <file name="contact.css" crc="4229844154" ref="phone>contact"/>
+      <file name="iefonts_contact.css" crc="3765423248" ref="phone>contact"/>
+      <file name="index.css" crc="3950513315" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="420218073" seo="true" mt="1466041525403" redirect="true"/>
+    <file name="about.html" crc="4033873001" seo="true" mt="1466041532236" redirect="true"/>
+    <file name="contact.html" crc="4098610006" seo="true" mt="1466041526501" redirect="true"/>
+    <file name="service.html" crc="4291050540" seo="true" mt="1466041530034" redirect="true"/>
+    <file name="work.html" crc="3889258073" seo="true" mt="1466041528517" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4265892503" seo="true" mt="1466041539525" redirect="true"/>
+  <site/>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Urban" filename="index.html" muse_href="page:U68" master="U59">
+        <breakpoint uid="U13746" maxwidth="1224" minwidth="0" squishy="false"/>
+        <anchor name="Service" html_id="service" muse_href="anchor:U63:U3712" includeInBPs="U13746"/>
+        <anchor name="top" html_id="top" muse_href="anchor:U63:U3785" includeInBPs="U13746"/>
+        <anchor name="About" html_id="about" muse_href="anchor:U63:U12824" includeInBPs="U13746"/>
+        <anchor name="Team" html_id="team" muse_href="anchor:U63:U12826" includeInBPs="U13746"/>
+        <anchor name="projects" html_id="projects" muse_href="anchor:U63:U12827" includeInBPs="U13746"/>
+        <anchor name="contact" html_id="contact" muse_href="anchor:U63:U12828" includeInBPs="U13746"/>
+      </page>
+      <masterPage name="A-Master" master="U55" uid="U59">
+        <breakpoint uid="U13758" maxwidth="1160" minwidth="0" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U55">
+        <breakpoint uid="U13753" maxwidth="1160" minwidth="0" squishy="false"/>
+      </masterPage>
+    </rendition>
+    <rendition device="tablet">
+      <page name="Urban" filename="index.html" muse_href="page:U10372" master="U10315">
+        <breakpoint uid="U13755" maxwidth="768" minwidth="0" squishy="false"/>
+        <anchor name="Top" html_id="top" muse_href="anchor:U10343:U13265" includeInBPs="U13755"/>
+      </page>
+      <masterPage name="A-Master" master="U10287" uid="U10315">
+        <breakpoint uid="U13749" maxwidth="768" minwidth="0" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U10287">
+        <breakpoint uid="U13743" maxwidth="768" minwidth="0" squishy="false"/>
+      </masterPage>
+      <page name="About" filename="about.html" muse_href="page:U10402" master="U10315">
+        <breakpoint uid="U13756" maxwidth="768" minwidth="0" squishy="false"/>
+        <anchor name="Top" html_id="top" muse_href="anchor:U10373:U13294" includeInBPs="U13756"/>
+      </page>
+      <page name="Work" filename="work.html" muse_href="page:U10432" master="U10315">
+        <breakpoint uid="U13759" maxwidth="768" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Service" filename="service.html" muse_href="page:U10462" master="U10315">
+        <breakpoint uid="U13745" maxwidth="768" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Contact" filename="contact.html" muse_href="page:U10492" master="U10315">
+        <breakpoint uid="U13754" maxwidth="768" minwidth="0" squishy="false"/>
+      </page>
+    </rendition>
+    <rendition device="phone">
+      <page name="Urban" filename="index.html" muse_href="page:U8091" master="U8054">
+        <breakpoint uid="U13757" maxwidth="380" minwidth="0" squishy="false"/>
+        <anchor name="Top" html_id="top" muse_href="anchor:U8072:U8390" includeInBPs="U13757"/>
+      </page>
+      <masterPage name="A-Master" master="U8036" uid="U8054">
+        <breakpoint uid="U13752" maxwidth="380" minwidth="0" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U8036">
+        <breakpoint uid="U13748" maxwidth="380" minwidth="0" squishy="false"/>
+      </masterPage>
+      <page name="About" filename="about.html" muse_href="page:U8509" master="U8054">
+        <breakpoint uid="U13750" maxwidth="380" minwidth="0" squishy="false"/>
+        <anchor name="Top" html_id="top" muse_href="anchor:U8488:U10204" includeInBPs="U13750"/>
+      </page>
+      <page name="Contact" filename="contact.html" muse_href="page:U8535" master="U8054">
+        <breakpoint uid="U13747" maxwidth="380" minwidth="0" squishy="false"/>
+        <anchor name="Top" html_id="top" muse_href="anchor:U8514:U13157" includeInBPs="U13747"/>
+      </page>
+      <page name="Service" filename="service.html" muse_href="page:U8557" master="U8054">
+        <breakpoint uid="U13744" maxwidth="380" minwidth="0" squishy="false"/>
+        <anchor name="Top" html_id="top" muse_href="anchor:U8536:U13103" includeInBPs="U13744"/>
+      </page>
+      <page name="Work" filename="work.html" muse_href="page:U8579" master="U8054">
+        <breakpoint uid="U13751" maxwidth="380" minwidth="0" squishy="false"/>
+        <anchor name="Top" html_id="top" muse_href="anchor:U8558:U12989" includeInBPs="U13751"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>

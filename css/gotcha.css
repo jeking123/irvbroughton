@@ -1,0 +1,2287 @@
+.version.gotcha /* version checker */
+{
+	color: #00000E;
+	background-color: #5E687F;
+}
+
+#page
+{
+	border-width: 0px;
+	margin-left: auto;
+	background-color: transparent;
+	margin-right: auto;
+	width: 100%;
+	z-index: 1;
+	background-image: none;
+	border-color: #000000;
+}
+
+#u40899-16
+{
+	-pie-box-shadow: none;
+	text-shadow: 6px 6px 8px #000000;
+	margin-top: 305px;
+	margin-right: -10000px;
+	box-shadow: none;
+	min-height: 279px;
+	z-index: 25;
+	background-color: transparent;
+	position: relative;
+	line-height: 24px;
+}
+
+#u40899-2,#u40899-3,#u40899-6,#u40899-9,#u40899-11
+{
+	text-align: center;
+	text-indent: 0px;
+}
+
+#u40899-4,#u40899-7,#u40899-12
+{
+	text-decoration: underline;
+}
+
+#u75555
+{
+	position: relative;
+}
+
+#u8637_img
+{
+	padding-bottom: 1px;
+}
+
+#u40557
+{
+	-pie-box-shadow: none;
+	position: relative;
+	background-position: center center;
+	z-index: 23;
+	box-shadow: 0px 0px 8px rgba(0,0,0,0.5),0px 0px 8px rgba(0,0,0,0.5)/* glow */,
+6px 6px 8px rgba(0,0,0,0.5)/* drop shadow*/;
+	background-color: transparent;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#u40557::before
+{
+	bottom: 0px;
+	pointer-events: none;
+	right: 0px;
+	position: absolute;
+	box-shadow: inset 3px 3px 4px rgba(255,255,255,0.75), inset -3px -3px 4px rgba(0,0,0,0.75);
+	top: 0px;
+	content: "";
+}
+
+#u40554
+{
+	z-index: 2;
+	background-color: transparent;
+	position: relative;
+	border-width: 0px;
+	border-color: transparent;
+}
+
+#u40555
+{
+	border-width: 0px;
+	left: 0px;
+	background-color: transparent;
+	margin-right: -10000px;
+	margin-left: 0%;
+	width: 100%;
+	z-index: 3;
+	border-color: transparent;
+	position: relative;
+}
+
+#u40556-19
+{
+	left: 0px;
+	-pie-box-shadow: none;
+	text-shadow: 6px 6px 8px #000000;
+	z-index: 4;
+	margin-left: 0%;
+	margin-right: -10000px;
+	box-shadow: none;
+	min-height: 500px;
+	background-color: transparent;
+	position: relative;
+	line-height: 24px;
+	width: 100%;
+}
+
+#u40556-11,#u40556-12,#u40556-16
+{
+	text-align: right;
+}
+
+#u40620
+{
+	position: relative;
+	background-position: left top;
+	margin-top: 446px;
+	margin-right: -10000px;
+	z-index: 24;
+	background-color: transparent;
+	background-repeat: no-repeat;
+	height: 138px;
+	background-size: contain;
+}
+
+#u40620:hover,#u40620:active
+{
+	background-position: left top;
+	min-height: 0px;
+	background-color: transparent;
+	background-repeat: no-repeat;
+	height: 138px;
+	margin: 446px -10000px 0px 0%;
+	background-size: contain;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/273673-leather.jpg") no-repeat center top fixed;
+}
+
+body
+{
+	position: relative;
+	padding-bottom: 20px;
+}
+
+@media (min-width: 1501px)
+{
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 1428px;
+		padding-bottom: 74px;
+		max-width: 1880px;
+	}
+
+	#u75555
+	{
+		left: -50%;
+		margin-left: 920px;
+		width: 97.88%;
+		max-width: 1840px;
+	}
+
+	#u75555_position_content
+	{
+		margin-top: -7px;
+		padding-bottom: 134px;
+		width: 100%;
+	}
+
+	#u74869
+	{
+		z-index: 73;
+		width: 330px;
+		position: fixed;
+		top: 7px;
+		left: 50%;
+		margin-left: -165px;
+	}
+
+	#menuu13091
+	{
+		position: relative;
+		left: -50%;
+		margin-left: 920px;
+		width: 100%;
+		max-width: 1840px;
+	}
+
+	#u13181
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 19.9%;
+	}
+
+	#u13182
+	{
+		position: relative;
+		width: 100%;
+	}
+
+	#u13182:hover
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u13182:active
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u13184-4
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u13182:hover #u13184-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u13182:active #u13184-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u13247
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 19.9%;
+		left: 20%;
+	}
+
+	#u13248
+	{
+		position: relative;
+		width: 100%;
+	}
+
+	#u13182.MuseMenuActive,#u13248:hover
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u13248:active
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u13249-4
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u13182.MuseMenuActive #u13184-4,#u13248:hover #u13249-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u13248:active #u13249-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u13310
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 19.9%;
+		left: 40%;
+	}
+
+	#u13311
+	{
+		position: relative;
+		width: 100%;
+	}
+
+	#u13248.MuseMenuActive,#u13311:hover
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u13311:active
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u13314-4
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u13248.MuseMenuActive #u13249-4,#u13311:hover #u13314-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u13311:active #u13314-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u14445
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 19.95%;
+		left: 60%;
+	}
+
+	#u14446
+	{
+		position: relative;
+		width: 100%;
+	}
+
+	#u13311.MuseMenuActive,#u14446:hover
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u14446:active
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u14449-4
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u13311.MuseMenuActive #u13314-4,#u14446:hover #u14449-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u14446:active #u14449-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u13373
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 19.95%;
+		left: 80.06%;
+	}
+
+	#u13374
+	{
+		position: relative;
+		width: 100%;
+	}
+
+	#u14446.MuseMenuActive,#u13374:hover
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u13374:active
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u13374.MuseMenuActive
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u13377-4
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u14446.MuseMenuActive #u14449-4,#u13374:hover #u13377-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u13374:active #u13377-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u13374.MuseMenuActive #u13377-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#menuu13091-wrapper
+	{
+		position: fixed;
+		top: 104px;
+		z-index: 42;
+		left: 50%;
+		margin-left: -920px;
+		width: 97.88%;
+		max-width: 1840px;
+	}
+
+	#u75555-wrapper
+	{
+		position: fixed;
+		top: 7px;
+		z-index: 41;
+		left: 50%;
+		margin-left: -920px;
+		width: 97.88%;
+		max-width: 1840px;
+	}
+
+	#u40899-16
+	{
+		width: 19.85%;
+		left: 2.5%;
+	}
+
+	#u8625
+	{
+		z-index: 75;
+		width: 60px;
+		position: fixed;
+		top: 2px;
+		left: 121px;
+	}
+
+	#u8625_img
+	{
+		padding-right: 1px;
+	}
+
+	#pu40557
+	{
+		padding-bottom: 0px;
+		margin-right: -10000px;
+		margin-top: 152px;
+		width: 54.47%;
+		margin-left: 22.77%;
+	}
+
+	#u40557
+	{
+		background-image: url("../images/trapfullcover.jpg");
+		width: 100%;
+		margin-left: 0%;
+		left: 0px;
+	}
+
+	#u40557::before
+	{
+		left: 0px;
+	}
+
+	#u40557 .fluid_height_spacer
+	{
+		padding-bottom: 72.65625%;
+	}
+
+	#u40554
+	{
+		margin-top: 10px;
+		width: 92.29%;
+		margin-left: 3.86%;
+		left: 1px;
+	}
+
+	#u40620
+	{
+		background-image: url("../images/trappapamazonbuy.png");
+		width: 9.9%;
+		left: 81.6%;
+	}
+
+	#u40620:hover
+	{
+		background-image: url("../images/trappapamazonbuy-buy%20paperback%20on%20amazon.png");
+		width: 9.9%;
+	}
+
+	#u40620:active
+	{
+		background-image: url("../images/trappapamazonbuy-layer%200.png");
+		width: 9.9%;
+	}
+
+	#u8637
+	{
+		z-index: 77;
+		width: 60px;
+		position: fixed;
+		top: 2px;
+		right: 121px;
+	}
+
+}
+
+@media (min-width: 1345px) and (max-width: 1500px)
+{
+	#muse_css_mq
+	{
+		background-color: #0005dc;
+	}
+
+	#bp_1500.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 1244px;
+		padding-bottom: 258px;
+		max-width: 1460px;
+	}
+
+	#u75555
+	{
+		left: -50%;
+		margin-left: 714.4680851063829px;
+		width: 97.88%;
+		max-width: 1429px;
+	}
+
+	#u75555_position_content
+	{
+		margin-top: -7px;
+		padding-bottom: 134px;
+		width: 100%;
+	}
+
+	#u74869
+	{
+		position: relative;
+		left: -50%;
+		margin-left: 165px;
+		width: 100%;
+		max-width: 330px;
+	}
+
+	#u74869-wrapper
+	{
+		position: fixed;
+		top: 7px;
+		z-index: 73;
+		left: 50%;
+		margin-left: -165px;
+		width: 22.61%;
+		max-width: 330px;
+	}
+
+	#menuu13091
+	{
+		position: relative;
+		left: -50%;
+		margin-left: 714.4680851063829px;
+		width: 100%;
+		max-width: 1429px;
+	}
+
+	#u13181
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 19.88%;
+	}
+
+	#u13182
+	{
+		position: relative;
+		width: 100%;
+	}
+
+	#u13182:hover
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u13182:active
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u13184-4
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u13182:hover #u13184-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u13182:active #u13184-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u13247
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 19.88%;
+		left: 20.02%;
+	}
+
+	#u13248
+	{
+		position: relative;
+		width: 100%;
+	}
+
+	#u13182.MuseMenuActive,#u13248:hover
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u13248:active
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u13249-4
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u13182.MuseMenuActive #u13184-4,#u13248:hover #u13249-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u13248:active #u13249-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u13310
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 19.88%;
+		left: 40.03%;
+	}
+
+	#u13311
+	{
+		position: relative;
+		width: 100%;
+	}
+
+	#u13248.MuseMenuActive,#u13311:hover
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u13311:active
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u13314-4
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u13248.MuseMenuActive #u13249-4,#u13311:hover #u13314-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u13311:active #u13314-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u14445
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 19.88%;
+		left: 60.05%;
+	}
+
+	#u14446
+	{
+		position: relative;
+		width: 100%;
+	}
+
+	#u13311.MuseMenuActive,#u14446:hover
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u14446:active
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u14449-4
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u13311.MuseMenuActive #u13314-4,#u14446:hover #u14449-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u14446:active #u14449-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u13373
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 19.88%;
+		left: 80.06%;
+	}
+
+	#u13374
+	{
+		position: relative;
+		width: 100%;
+	}
+
+	#u14446.MuseMenuActive,#u13374:hover
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u13374:active
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u13374.MuseMenuActive
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u13377-4
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u14446.MuseMenuActive #u14449-4,#u13374:hover #u13377-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u13374:active #u13377-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u13374.MuseMenuActive #u13377-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#menuu13091-wrapper
+	{
+		position: fixed;
+		top: 104px;
+		z-index: 42;
+		left: 50%;
+		margin-left: -714px;
+		width: 97.88%;
+		max-width: 1429px;
+	}
+
+	#u75555-wrapper
+	{
+		position: fixed;
+		top: 7px;
+		z-index: 41;
+		left: 50%;
+		margin-left: -714px;
+		width: 97.88%;
+		max-width: 1429px;
+	}
+
+	#u40899-16
+	{
+		width: 19.87%;
+		left: 2.54%;
+	}
+
+	#u8625
+	{
+		z-index: 75;
+		position: fixed;
+		top: 2px;
+		left: 121px;
+		width: 4.11%;
+		max-width: 60px;
+	}
+
+	#u8625_img
+	{
+		padding-right: 1px;
+		width: 98.34%;
+	}
+
+	#pu40557
+	{
+		padding-bottom: 0px;
+		margin-right: -10000px;
+		margin-top: 152px;
+		width: 54.46%;
+		margin-left: 22.78%;
+	}
+
+	#u40557
+	{
+		background-image: url("../images/trapfullcover-u40557-fr.jpg");
+		width: 100%;
+		margin-left: 0%;
+		left: -0.5000000000000568px;
+	}
+
+	#u40557::before
+	{
+		left: -0.5000000000000568px;
+	}
+
+	#u40557 .fluid_height_spacer
+	{
+		padding-bottom: 72.70440251572326%;
+	}
+
+	#u40554
+	{
+		margin-top: 10px;
+		width: 92.33%;
+		margin-left: 3.84%;
+		left: 0.49999999999994316px;
+	}
+
+	#u40620
+	{
+		background-image: url("../images/trappapamazonbuy-u40620-fr.png");
+		width: 9.87%;
+		left: 81.58%;
+	}
+
+	#u40620:hover
+	{
+		background-image: url("../images/trappapamazonbuy-u40620-r-fr.png");
+		width: 9.87%;
+	}
+
+	#u40620:active
+	{
+		background-image: url("../images/trappapamazonbuy-u40620-m-fr.png");
+		width: 9.87%;
+	}
+
+	#u8637
+	{
+		z-index: 77;
+		position: fixed;
+		top: 2px;
+		right: 121px;
+		width: 4.11%;
+		max-width: 60px;
+	}
+
+	#u8637_img,#u74869_img
+	{
+		width: 100%;
+	}
+
+}
+
+@media (min-width: 1153px) and (max-width: 1344px)
+{
+	#muse_css_mq
+	{
+		background-color: #000540;
+	}
+
+	#bp_1344.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 1206px;
+		padding-bottom: 296px;
+		max-width: 1304px;
+	}
+
+	#u75555
+	{
+		left: -50%;
+		margin-left: 638.127659574468px;
+		width: 97.86%;
+		max-width: 1276px;
+	}
+
+	#u75555_position_content
+	{
+		margin-top: -7px;
+		padding-bottom: 124px;
+		width: 100%;
+	}
+
+	#u74869
+	{
+		position: relative;
+		left: -50%;
+		margin-left: 147.3698630136986px;
+		width: 100%;
+		max-width: 295px;
+	}
+
+	#u74869-wrapper
+	{
+		position: fixed;
+		top: 7px;
+		z-index: 73;
+		left: 50%;
+		margin-left: -147px;
+		width: 22.63%;
+		max-width: 295px;
+	}
+
+	#menuu13091
+	{
+		position: relative;
+		left: -50%;
+		margin-left: 638.127659574468px;
+		width: 100%;
+		max-width: 1276px;
+	}
+
+	#u13181
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 19.83%;
+	}
+
+	#u13182
+	{
+		position: relative;
+		width: 100%;
+	}
+
+	#u13182:hover
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u13182:active
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u13184-4
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u13182:hover #u13184-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u13182:active #u13184-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u13247
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 19.83%;
+		left: 19.99%;
+	}
+
+	#u13248
+	{
+		position: relative;
+		width: 100%;
+	}
+
+	#u13182.MuseMenuActive,#u13248:hover
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u13248:active
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u13249-4
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u13182.MuseMenuActive #u13184-4,#u13248:hover #u13249-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u13248:active #u13249-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u13310
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 19.91%;
+		left: 39.97%;
+	}
+
+	#u13311
+	{
+		position: relative;
+		width: 100%;
+	}
+
+	#u13248.MuseMenuActive,#u13311:hover
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u13311:active
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u13314-4
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u13248.MuseMenuActive #u13249-4,#u13311:hover #u13314-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u13311:active #u13314-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u14445
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 19.91%;
+		left: 60.04%;
+	}
+
+	#u14446
+	{
+		position: relative;
+		width: 100%;
+	}
+
+	#u13311.MuseMenuActive,#u14446:hover
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u14446:active
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u14449-4
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u13311.MuseMenuActive #u13314-4,#u14446:hover #u14449-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u14446:active #u14449-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u13373
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 19.91%;
+		left: 80.1%;
+	}
+
+	#u13374
+	{
+		position: relative;
+		width: 100%;
+	}
+
+	#u14446.MuseMenuActive,#u13374:hover
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u13374:active
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u13374.MuseMenuActive
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u13377-4
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u14446.MuseMenuActive #u14449-4,#u13374:hover #u13377-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u13374:active #u13377-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u13374.MuseMenuActive #u13377-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#menuu13091-wrapper
+	{
+		position: fixed;
+		top: 94px;
+		z-index: 42;
+		left: 50%;
+		margin-left: -638px;
+		width: 97.86%;
+		max-width: 1276px;
+	}
+
+	#u75555-wrapper
+	{
+		position: fixed;
+		top: 7px;
+		z-index: 41;
+		left: 50%;
+		margin-left: -638px;
+		width: 97.86%;
+		max-width: 1276px;
+	}
+
+	#u40899-16
+	{
+		width: 19.87%;
+		left: 2.54%;
+	}
+
+	#u8625
+	{
+		z-index: 75;
+		position: fixed;
+		top: 2px;
+		left: 121px;
+		width: 4.07%;
+		max-width: 53px;
+	}
+
+	#pu40557
+	{
+		margin-right: -10000px;
+		margin-top: 152px;
+		width: 54.45%;
+		margin-left: 22.78%;
+	}
+
+	#u40557
+	{
+		background-image: url("../images/trapfullcover-u40557-fr2.jpg");
+		width: 100%;
+		margin-left: 0%;
+		left: 0px;
+	}
+
+	#u40557::before
+	{
+		left: 0px;
+	}
+
+	#u40557 .fluid_height_spacer
+	{
+		padding-bottom: 72.67605633802818%;
+	}
+
+	#u40554
+	{
+		margin-top: 11px;
+		width: 92.26%;
+		margin-left: 3.88%;
+		left: -1px;
+	}
+
+	#u40620
+	{
+		background-image: url("../images/trappapamazonbuy-u40620-fr2.png");
+		width: 9.9%;
+		left: 81.6%;
+	}
+
+	#u40620:hover
+	{
+		background-image: url("../images/trappapamazonbuy-u40620-r-fr2.png");
+		width: 9.9%;
+	}
+
+	#u40620:active
+	{
+		background-image: url("../images/trappapamazonbuy-u40620-m-fr2.png");
+		width: 9.9%;
+	}
+
+	#u8637
+	{
+		z-index: 77;
+		position: fixed;
+		top: 2px;
+		right: 121px;
+		width: 4.15%;
+		max-width: 54px;
+	}
+
+	#u8637_img,#u74869_img,#u8625_img
+	{
+		width: 100%;
+	}
+
+}
+
+@media (min-width: 901px) and (max-width: 1152px)
+{
+	#muse_css_mq
+	{
+		background-color: #000480;
+	}
+
+	#bp_1152.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 1202px;
+		padding-bottom: 300px;
+		max-width: 1112px;
+	}
+
+	#u75555
+	{
+		left: -50%;
+		margin-left: 544.1702127659574px;
+		width: 97.85%;
+		max-width: 1088px;
+	}
+
+	#u75555_position_content
+	{
+		margin-top: -7px;
+		padding-bottom: 113px;
+		width: 100%;
+	}
+
+	#u74869
+	{
+		position: relative;
+		left: -50%;
+		margin-left: 125.67123287671234px;
+		width: 100%;
+		max-width: 251px;
+	}
+
+	#u74869-wrapper
+	{
+		position: fixed;
+		top: 7px;
+		z-index: 73;
+		left: 50%;
+		margin-left: -126px;
+		width: 22.58%;
+		max-width: 251px;
+	}
+
+	#menuu13091
+	{
+		position: relative;
+		left: -50%;
+		margin-left: 544.1702127659574px;
+		width: 100%;
+		max-width: 1088px;
+	}
+
+	#u13181
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 19.86%;
+	}
+
+	#u13182
+	{
+		position: relative;
+		width: 100%;
+	}
+
+	#u13182:hover
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u13182:active
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u13184-4
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u13182:hover #u13184-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u13182:active #u13184-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u13247
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 19.86%;
+		left: 20.04%;
+	}
+
+	#u13248
+	{
+		position: relative;
+		width: 100%;
+	}
+
+	#u13182.MuseMenuActive,#u13248:hover
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u13248:active
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u13249-4
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u13182.MuseMenuActive #u13184-4,#u13248:hover #u13249-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u13248:active #u13249-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u13310
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 19.86%;
+		left: 40.08%;
+	}
+
+	#u13311
+	{
+		position: relative;
+		width: 100%;
+	}
+
+	#u13248.MuseMenuActive,#u13311:hover
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u13311:active
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u13314-4
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u13248.MuseMenuActive #u13249-4,#u13311:hover #u13314-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u13311:active #u13314-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u14445
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 19.86%;
+		left: 60.12%;
+	}
+
+	#u14446
+	{
+		position: relative;
+		width: 100%;
+	}
+
+	#u13311.MuseMenuActive,#u14446:hover
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u14446:active
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u14449-4
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u13311.MuseMenuActive #u13314-4,#u14446:hover #u14449-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u14446:active #u14449-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u13373
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 19.86%;
+		left: 80.15%;
+	}
+
+	#u13374
+	{
+		position: relative;
+		width: 100%;
+	}
+
+	#u14446.MuseMenuActive,#u13374:hover
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u13374:active
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u13374.MuseMenuActive
+	{
+		min-height: 0px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u13377-4
+	{
+		min-height: 30px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u14446.MuseMenuActive #u14449-4,#u13374:hover #u13377-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u13374:active #u13377-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u13374.MuseMenuActive #u13377-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 30px;
+		width: 100%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#menuu13091-wrapper
+	{
+		position: fixed;
+		top: 83px;
+		z-index: 42;
+		left: 50%;
+		margin-left: -544px;
+		width: 97.85%;
+		max-width: 1088px;
+	}
+
+	#u75555-wrapper
+	{
+		position: fixed;
+		top: 7px;
+		z-index: 41;
+		left: 50%;
+		margin-left: -544px;
+		width: 97.85%;
+		max-width: 1088px;
+	}
+
+	#u40899-16
+	{
+		width: 19.88%;
+		left: 2.52%;
+	}
+
+	#u8625
+	{
+		z-index: 75;
+		position: fixed;
+		top: 2px;
+		left: 121px;
+		width: 4.05%;
+		max-width: 45px;
+	}
+
+	#pu40557
+	{
+		margin-right: -10000px;
+		margin-top: 152px;
+		width: 54.5%;
+		margin-left: 22.76%;
+	}
+
+	#u40557
+	{
+		background-image: url("../images/trapfullcover-u40557-fr3.jpg");
+		width: 100%;
+		margin-left: 0%;
+		left: 2.842170943040401e-14px;
+	}
+
+	#u40557::before
+	{
+		left: 2.842170943040401e-14px;
+	}
+
+	#u40557 .fluid_height_spacer
+	{
+		padding-bottom: 72.60726072607261%;
+	}
+
+	#u40554
+	{
+		margin-top: 11px;
+		width: 92.25%;
+		margin-left: 3.88%;
+		left: -0.9999999999999716px;
+	}
+
+	#u40620
+	{
+		background-image: url("../images/trappapamazonbuy-u40620-fr3.png");
+		width: 9.9%;
+		left: 81.57%;
+	}
+
+	#u40620:hover
+	{
+		background-image: url("../images/trappapamazonbuy-u40620-r-fr3.png");
+		width: 9.9%;
+	}
+
+	#u40620:active
+	{
+		background-image: url("../images/trappapamazonbuy-u40620-m-fr3.png");
+		width: 9.9%;
+	}
+
+	#u8637
+	{
+		z-index: 77;
+		position: fixed;
+		top: 2px;
+		right: 121px;
+		width: 4.14%;
+		max-width: 46px;
+	}
+
+	#u8637_img,#u74869_img,#u8625_img
+	{
+		width: 100%;
+	}
+
+}
+
+@media (min-width: 651px) and (max-width: 900px)
+{
+	#muse_css_mq
+	{
+		background-color: #000384;
+	}
+
+	#bp_900.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 1199px;
+		padding-bottom: 303px;
+		max-width: 860px;
+	}
+
+	#u49190
+	{
+		z-index: 49;
+		width: 524px;
+		min-height: 69px;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 4px;
+		left: -544px;
+	}
+
+	#u49189
+	{
+		z-index: 48;
+		width: 40px;
+		min-height: 40px;
+		position: fixed;
+		top: 7px;
+		left: 18px;
+	}
+
+	#u40899-16
+	{
+		width: 19.89%;
+		left: 2.56%;
+	}
+
+	#u8625
+	{
+		z-index: 44;
+		width: 35px;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 6px;
+		left: 155px;
+	}
+
+	#pu75555
+	{
+		margin-right: -10000px;
+		margin-top: 7px;
+		width: 54.42%;
+		margin-left: 22.8%;
+	}
+
+	#u75555
+	{
+		z-index: 41;
+		width: 47.01%;
+		margin-left: 26.5%;
+		left: 2.842170943040401e-14px;
+	}
+
+	#u74869
+	{
+		z-index: 42;
+		width: 220px;
+		position: relative;
+		margin-right: -10000px;
+		margin-left: 50%;
+		left: -110px;
+	}
+
+	#u40557
+	{
+		background-image: url("../images/trapfullcover-u40557-fr4.jpg");
+		margin-top: 85px;
+		width: 100%;
+		margin-left: 0%;
+		left: 2.842170943040401e-14px;
+	}
+
+	#u40557::before
+	{
+		left: 2.842170943040401e-14px;
+	}
+
+	#u40557 .fluid_height_spacer
+	{
+		padding-bottom: 72.64957264957265%;
+	}
+
+	#u40554
+	{
+		margin-top: 11px;
+		width: 92.31%;
+		margin-left: 3.85%;
+		left: 2.842170943040401e-14px;
+	}
+
+	#u8637
+	{
+		z-index: 46;
+		width: 35px;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 6px;
+		margin-left: 100%;
+		left: -191px;
+	}
+
+	#u40620
+	{
+		background-image: url("../images/trappapamazonbuy-u40620-fr4.png");
+		width: 9.89%;
+		left: 81.63%;
+	}
+
+	#u40620:hover
+	{
+		background-image: url("../images/trappapamazonbuy-u40620-r-fr4.png");
+		width: 9.89%;
+	}
+
+	#u40620:active
+	{
+		background-image: url("../images/trappapamazonbuy-u40620-m-fr4.png");
+		width: 9.89%;
+	}
+}
+
+@media (max-width: 650px)
+{
+	#muse_css_mq
+	{
+		background-color: #00028a;
+	}
+
+	#bp_650.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 1340px;
+		padding-bottom: 162px;
+		max-width: 610px;
+	}
+
+	#u49190
+	{
+		z-index: 49;
+		width: 524px;
+		min-height: 69px;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 4px;
+		left: -544px;
+	}
+
+	#u49189
+	{
+		z-index: 48;
+		width: 40px;
+		min-height: 40px;
+		position: fixed;
+		top: 7px;
+		left: 18px;
+	}
+
+	#u40899-16
+	{
+		width: 19.84%;
+		left: 2.46%;
+	}
+
+	#ppu8625
+	{
+		margin-right: -10000px;
+		margin-top: 6px;
+		width: 54.6%;
+		margin-left: 22.71%;
+	}
+
+	#pu8625
+	{
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	#u8625
+	{
+		z-index: 44;
+		width: 35px;
+		position: relative;
+		margin-right: -10000px;
+		margin-left: 50%;
+		left: -167.5px;
+	}
+
+	#u75555
+	{
+		z-index: 41;
+		margin-right: -10000px;
+		margin-top: 1px;
+		width: 66.07%;
+		margin-left: 16.97%;
+		left: 0.5px;
+	}
+
+	#u74869
+	{
+		z-index: 42;
+		width: 220px;
+		position: relative;
+		margin-right: -10000px;
+		margin-left: 50%;
+		left: -110px;
+	}
+
+	#u8637
+	{
+		z-index: 46;
+		width: 35px;
+		position: relative;
+		margin-right: -10000px;
+		margin-left: 50%;
+		left: 131.5px;
+	}
+
+	#u40557
+	{
+		background-image: url("../images/trapfullcover-u40557-fr5.jpg");
+		margin-top: 85px;
+		width: 99.7%;
+		margin-left: 0.16%;
+		left: -0.5px;
+	}
+
+	#u40557::before
+	{
+		left: -0.5px;
+	}
+
+	#u40557 .fluid_height_spacer
+	{
+		padding-bottom: 72.59036144578313%;
+	}
+
+	#u40554
+	{
+		margin-top: 11px;
+		width: 92.2%;
+		margin-left: 3.91%;
+		left: 0.5px;
+	}
+
+	#u40620
+	{
+		background-image: url("../images/trappapamazonbuy-u40620-fr5.png");
+		width: 9.84%;
+		left: 81.64%;
+	}
+
+	#u40620:hover
+	{
+		background-image: url("../images/trappapamazonbuy-u40620-r-fr5.png");
+		width: 9.84%;
+	}
+
+	#u40620:active
+	{
+		background-image: url("../images/trappapamazonbuy-u40620-m-fr5.png");
+		width: 9.84%;
+	}
+
+	body
+	{
+		min-width: 480px;
+	}
+}
+
